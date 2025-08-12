@@ -1,0 +1,12 @@
+Instructions
+1.Log in to your WordPress admin panel.
+2.Navigate to Appearance → Theme File Editor.
+3.Open style.css and paste the code from your style.css file at the very bottom.
+4.Open functions.php and paste the code from your functions.php file at the very bottom.
+
+That’s it! You should now see product prices displayed in BGN and EUR on your site.
+
+Notes:
+The exchange rate used is 1.95583 BGN = 1 EUR.
+These are custom functions. We take no responsibility for any issues or inaccuracies that may occur.
+
